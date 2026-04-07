@@ -1,6 +1,6 @@
 """
-app.py — Ketika & Bintang: Malay Time Divination
-=================================================
+app.py — Kinketika（堅克提卡）: Malay Time Divination
+=====================================================
 A culturally respectful, bilingual (English / 繁體中文) Streamlit
 application that implements two classical Malay Archipelago
 time-divination systems:
@@ -30,7 +30,7 @@ from wheel_chart import make_wheel
 # Page configuration
 # ------------------------------------------------------------------
 st.set_page_config(
-    page_title="Ketika & Bintang — Malay Time Divination",
+    page_title="Kinketika — Malay Time Divination",
     page_icon="🌙",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -187,9 +187,9 @@ current = get_current_period(periods, query_dt.hour, query_dt.minute)
 # Banner
 # ------------------------------------------------------------------
 banner_title = (
-    "Ketika &amp; Bintang — 馬來群島傳統時間占卜"
+    "Kinketika（堅克提卡）— 馬來群島傳統時間占卜"
     if lang_key == "zh"
-    else "Ketika &amp; Bintang — Malay Time Divination"
+    else "Kinketika — Malay Time Divination"
 )
 banner_sub = (
     "融合馬來半島、蘇門答臘、爪哇及南蘇拉威西傳統智慧"
@@ -450,4 +450,4 @@ else:
     )
 
 st.markdown(f'<div class="cultural-note">{footer_text}</div>', unsafe_allow_html=True)
-st.caption("© Ketika & Bintang — Malay Time Divination Tool")
+st.caption("© Kinketika（堅克提卡）— Malay Time Divination Tool")
