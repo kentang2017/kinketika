@@ -1,6 +1,8 @@
 # 🌙 Kinketika（堅克提卡）— Malay Time Divination
 # 馬來群島傳統時間占卜工具
 
+<img width="2584" height="2362" alt="image" src="https://github.com/user-attachments/assets/21c13368-2f40-44a7-88d7-078c031a0389" />
+
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)](https://streamlit.io)
 
 A culturally respectful, bilingual (English / 繁體中文) web application that
