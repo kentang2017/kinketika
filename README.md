@@ -1,4 +1,4 @@
-# 🌙 Ketika & Bintang — Malay Time Divination
+# 🌙 Kinketika（堅克提卡）— Malay Time Divination
 # 馬來群島傳統時間占卜工具
 
 [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit)](https://streamlit.io)
